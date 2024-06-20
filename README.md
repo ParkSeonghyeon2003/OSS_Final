@@ -1,6 +1,6 @@
-# final_project
+# 2024 1학기 단국대 오픈소스 활용 기말 과제
 
-A new Flutter project.
+대학 과제 메모 앱
 
 ## Getting Started
 
